@@ -1,0 +1,56 @@
+
+body {
+    background-color: #7FFFD4;
+}
+.container {
+    
+    width: 50%;
+  }
+  
+hr{
+    background-color: rgb(243, 12, 12);
+    border-width: 1px;
+    border-style: dotted;
+    height: 2px;
+    width: 30vw;
+    margin-left: 0%;
+}
+
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+  
+
+
+
+.ana{
+    position: absolute;
+    right: 32px;
+    top: 32px;
+    border-radius: 5%;
+   
+    opacity: 1;
+    display: block;
+    width: 20%;
+    height: 40%;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.bella{
+    
+    background-color: darkblue;
+    text-align: right;
+
+}
+
+.container:hover .ana {
+    opacity: 0.3;
+  }
+  
+
+
+ 
+  

@@ -1,0 +1,130 @@
+.col-{
+    border: 30%;
+
+    
+}
+#pricing{
+    margin: 10%;
+}
+.font1{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+body{
+    font-family: 'Pattaya', sans-serif;
+}
+#title{
+    height: 800px;
+    background-color: #0dcaf098;
+    /* text-align: center; */
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+#title1{
+    height:fit-content;
+    background-color: #0dcaf098;
+    /* text-align: center; */
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+.abc{
+    position: relative;
+    
+}
+
+.icon{
+    margin-bottom: 1rem;
+    color: rgb(28, 236, 236);
+
+}
+
+.icon:hover{
+    color:rgb(66, 155, 155) ;
+}
+.img1{
+    position:absolute;
+    left:0%;
+    top: 0%;
+    transform: rotate(20deg);
+    width:110%;
+    
+    
+
+}
+.butt{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.buttons{
+    margin: 5% 3% 5% 0%;
+    
+    
+    
+}
+.cont{
+    
+    display: inline-block;
+    width: 100%;
+    
+}
+.text1 h1{
+    font-size: 300%;
+    font-weight: 500;
+
+}
+.text1{
+    padding-top: 25%;
+    padding-left: 15%;
+}
+#feature{
+    position: relative;
+    background-color: rgba(238, 15, 82, 0.733);;
+    z-index: 5;
+    padding: 7% 15%  ;
+}
+
+.navbar {
+    padding: 5%;
+    font-size: 25px;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+    font-size: large;
+}
+
+.h3{
+    font-weight:1000;
+    font-size: x-large;
+}
+
+#testimonials{
+    padding: 7% 15%  ;
+    text-align: center;
+    background-color: #0dcaf098;
+}
+.text2 h2{
+    font-size: 300%;
+}
+
+.img2{
+    border-radius: 50%;
+    width: 20%;
+    margin: 20px;
+}
+
+#press{
+    text-align: center;
+    
+    background-color: #0dcaf098;
+    padding-bottom: 5%;
+}
+
+.img3{
+    width: 15%;
+    margin: 0.5%;
+    border-radius: 5%;
+
+}
